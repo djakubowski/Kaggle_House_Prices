@@ -4,9 +4,8 @@ This project is a solution to Kaggle competition (https://www.kaggle.com/c/house
 #### -- Project Status: [Active]
 
 ## Project Objective
-Goal is to predict house prices/
+Goal is to predict house prices.
 
-With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 ### Methods Used
 * Data Visualization
 * Machine Learning
